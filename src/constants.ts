@@ -59,10 +59,10 @@ export const FAQ_DATA: FAQItem[] = [
     question: "What is NMT's overall approach to AI deployment?",
     answer: [
       "NMT takes a holistic approach to Sovereign Intelligence, combining four complementary pillars:",
-      "Business Automation - streamline work and boost productivity with intelligent AI-driven automation.",
-      "Hardware & Software Integration - connect devices and systems seamlessly for unified, scalable operations.",
-      "R&D / Innovation - intelligence tailored to local realities: personalized, co-developed AI optimized for real-time, business-specific impact.",
-      "Data Security & Privacy - your data stays protected: encrypted, compliant, and monitored for total peace of mind."
+      "Business Automation : streamline work and boost productivity with intelligent AI-driven automation.",
+      "Hardware & Software Integration : connect devices and systems seamlessly for unified, scalable operations.",
+      "R&D / Innovation : intelligence tailored to local realities: personalized, co-developed AI optimized for real-time, business-specific impact.",
+      "Data Security & Privacy : your data stays protected: encrypted, compliant, and monitored for total peace of mind."
     ]
   },
   {
@@ -71,9 +71,9 @@ export const FAQ_DATA: FAQItem[] = [
     question: "What does Business Automation mean at NMT?",
     answer: [
       "Business Automation at NMT encompasses three capabilities:",
-      "Intelligent Automation - automate repetitive tasks with AI-powered workflows that streamline operations, boost efficiency, and free up teams to focus on high-value work.",
-      "Smart Decision-Making - leverage data-driven AI systems to enhance decision-making, reduce errors, and deliver faster, more accurate business outcomes.",
-      "Scalable AI Solutions - deploy tailored AI systems that integrate seamlessly with existing tools, enabling flexible, cost-effective growth as the business evolves."
+      "Intelligent Automation : automate repetitive tasks with AI-powered workflows that streamline operations, boost efficiency, and free up teams to focus on high-value work.",
+      "Smart Decision-Making : leverage data-driven AI systems to enhance decision-making, reduce errors, and deliver faster, more accurate business outcomes.",
+      "Scalable AI Solutions : deploy tailored AI systems that integrate seamlessly with existing tools, enabling flexible, cost-effective growth as the business evolves."
     ]
   },
   {
@@ -81,11 +81,11 @@ export const FAQ_DATA: FAQItem[] = [
     category: "Offer & Solutions",
     question: "What does Hardware & Software Integration cover?",
     answer: [
-      "NMT delivers end-to-end AI integration - from embedded systems to enterprise infrastructure. This includes:",
-      "Hybrid Deployment - on-premises & cloud solutions, tailored to specific security needs.",
-      "Dedicated AI Infrastructure - Edge AI and high-performance GPU clusters for real-time inference.",
-      "Built to Scale - solutions that grow with the business, seamlessly and securely.",
-      "Full Interoperability - smooth communication across all devices and platforms.",
+      "NMT delivers end-to-end AI integration : from embedded systems to enterprise infrastructure. This includes:",
+      "Hybrid Deployment : on-premises & cloud solutions, tailored to specific security needs.",
+      "Dedicated AI Infrastructure : Edge AI and high-performance GPU clusters for real-time inference.",
+      "Built to Scale : solutions that grow with the business, seamlessly and securely.",
+      "Full Interoperability : smooth communication across all devices and platforms.",
       "All deployments are backed by NMT's 24/7 technical support."
     ]
   },
@@ -95,10 +95,10 @@ export const FAQ_DATA: FAQItem[] = [
     question: "What does NMT's R&D and Innovation service offer?",
     answer: [
       "NMT drives AI innovation from concept to deployment through four dimensions:",
-      "Adapt AI to Your Needs - custom solutions ranging from predictive analytics to intelligent automation.",
-      "Personalize AI for Your Industry - fine-tuned models trained on your data, your language, your domain.",
-      "Optimize AI for Your Constraints - real-time processing, embedded AI and hybrid infrastructure built for demanding environments.",
-      "Open Innovation - collaboration beyond boundaries to bring the most relevant AI breakthroughs to your business."
+      "Adapt AI to Your Needs : custom solutions ranging from predictive analytics to intelligent automation.",
+      "Personalize AI for Your Industry : fine-tuned models trained on your data, your language, your domain.",
+      "Optimize AI for Your Constraints : real-time processing, embedded AI and hybrid infrastructure built for demanding environments.",
+      "Open Innovation : collaboration beyond boundaries to bring the most relevant AI breakthroughs to your business."
     ]
   },
   {
@@ -107,9 +107,9 @@ export const FAQ_DATA: FAQItem[] = [
     question: "How does NMT protect data and privacy?",
     answer: [
       "Data security is a core pillar of NMT's offer. NMT ensures:",
-      "Secure Data Handling - data is encrypted, anonymized, and processed to the highest security standards.",
-      "Compliance & Transparency - solutions are built to meet global data protection regulations and are responsible by design.",
-      "Access Control & Monitoring - strict access controls with real-time threat detection and response."
+      "Secure Data Handling : data is encrypted, anonymized, and processed to the highest security standards.",
+      "Compliance & Transparency : solutions are built to meet global data protection regulations and are responsible by design.",
+      "Access Control & Monitoring : strict access controls with real-time threat detection and response."
     ]
   },
   {
@@ -118,9 +118,9 @@ export const FAQ_DATA: FAQItem[] = [
     question: "What is the NMT Framework for AI Adoption?",
     answer: [
       "NMT follows a structured three-phase framework for AI adoption:",
-      "PLAN - define the project development roadmap and determine requirements and specifications aligned with organizational goals.",
-      "BUILD - implement the necessary features and functionalities based on the project plan, integrating AI capabilities into existing systems.",
-      "DEPLOY - launch the solution to the desired platform, validate performance, and ensure everything works as intended.",
+      "PLAN : define the project development roadmap and determine requirements and specifications aligned with organizational goals.",
+      "BUILD : implement the necessary features and functionalities based on the project plan, integrating AI capabilities into existing systems.",
+      "DEPLOY : launch the solution to the desired platform, validate performance, and ensure everything works as intended.",
       "This approach ensures a controlled, progressive, and sustainable adoption of AI within any organization."
     ]
   },
@@ -142,10 +142,10 @@ export const FAQ_DATA: FAQItem[] = [
     question: "How does NMT ensure responsible AI practices?",
     answer: [
       "NMT integrates ethics from the design stage. Responsible AI at NMT means:",
-      "Transparency - AI systems are explainable and auditable.",
-      "Data Protection - personal and institutional data is handled with the highest standards.",
-      "Responsible Model Design - models are designed to support human decision-making, not replace it blindly.",
-      "Human-Centered Alignment - AI systems remain aligned with human values and organizational objectives.",
+      "Transparency : AI systems are explainable and auditable.",
+      "Data Protection : personal and institutional data is handled with the highest standards.",
+      "Responsible Model Design : models are designed to support human decision-making, not replace it blindly.",
+      "Human-Centered Alignment : AI systems remain aligned with human values and organizational objectives.",
       "NMT builds AI that is both powerful and responsible."
     ]
   },
@@ -208,12 +208,12 @@ export const FAQ_DATA: FAQItem[] = [
     question: "How can organizations connect with NMT at and after the summit?",
     answer: [
       "Organizations interested in NMT's solutions can connect through multiple channels:",
-      "At the Summit - visit NMT's exhibit at the ICT Africa Summit 2026, April 21–23, SAFEX, Algiers.",
-      "Email - contact@numidiatec.com",
-      "Phone - +213 (0) 770 878 227",
-      "Website - www.numidiatec.com",
-      "LinkedIn - www.linkedin.com/company/numidia-mind-technologies",
-      "Headquarters - Cité Garidi 01, Bureau N°15, Bâtiment N°F08, Kouba, Algiers, Algeria",
+      "At the Summit : visit NMT's exhibit at the ICT Africa Summit 2026, April 21–23, SAFEX, Algiers.",
+      "Email : contact@numidiatec.com",
+      "Phone : +213 (0) 770 878 227",
+      "Website : www.numidiatec.com",
+      "LinkedIn : www.linkedin.com/company/numidia-mind-technologies",
+      "Headquarters : Cité Garidi 01, Bureau N°15, Bâtiment N°F08, Kouba, Algiers, Algeria",
       "NMT welcomes discussions on partnerships, pilot projects, custom AI solutions, and R&D collaborations."
     ]
   }

@@ -208,13 +208,16 @@ export default function App() {
             <Cpu className="absolute -right-12 -top-12 w-64 h-64 opacity-10 rotate-12" />
             <div className="relative z-10">
               <h3 className="text-3xl font-black mb-4 leading-tight">Visit us at the Summit</h3>
-              
+              <p className="text-gray-200 text-lg mb-8">
+                Discover our innovative solutions and how they can transform your business.
+              </p>
             </div>
             <div className="relative z-10 p-4 bg-white/10 backdrop-blur-md rounded-2xl border border-white/20 flex items-center gap-4">
               <MapPin className="w-10 h-10 text-white p-2 bg-white/20 rounded-xl" />
               <div>
                 <p className="text-xs uppercase tracking-widest font-bold text-white/60">Location</p>
-                <p className="font-bold">ICT Africa Summit | SAFEX, Algiers</p>
+                <p className="font-bold">ICT Africa Summit | Stand S03 |</p>
+                 <p className="font-bold">SAFEX, Algiers</p>
               </div>
             </div>
           </div>
@@ -288,12 +291,8 @@ export default function App() {
             </div>
           </div>
           
-          <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
+          <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-center items-center gap-4 text-sm text-gray-500">
             <p>© 2026 Numidia Mind Technologies. All rights reserved.</p>
-            <div className="flex gap-8">
-              <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-              <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-            </div>
           </div>
         </div>
       </footer>
